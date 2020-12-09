@@ -1,0 +1,8 @@
+black
+numpy==1.19.1
+pandas==1.1.1
+cassandra-driver==3.24.0
+
+
+
+
